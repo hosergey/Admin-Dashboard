@@ -14,15 +14,15 @@ Seamless calendar integration for scheduling and events management.
 
 ## Resources:
 
-* create-react-app: React project setup. 
-* Material UI: UI components.
-* Nivo Charts: Data visualization.
-* FullCalendar: Calendar functionality.
-* Formik: Form management.
-* Yup validation: Form validation.
-* React pro sidebar: Enhanced sidebar navigation.
-* Google Fonts: Typography enhancements.
-
+* React project setup was facilitated using [create-react-app](https://create-react-app.dev/)
+* UI components were designed and implemented with [Material UI](https://mui.com/material-ui/getting-started/installation/)
+* Data visualization was achieved using [Nivo Charts](https://nivo.rocks/components/)
+* Calendar functionality was seamlessly integrated using [FullCalendar](https://fullcalendar.io/docs)
+* Form management was handled efficiently with [Formik](https://formik.org/docs/overview#installation)
+* Form validation was implemented using [Yup validation](https://github.com/jquense/yup)
+* Enhanced sidebar navigation was enabled with [React pro sidebar](https://github.com/azouaoui-med/react-pro-sidebar)
+* Typography enhancements were made possible with [Google Fonts
+](https://fonts.google.com/)
 ## Usage:
 
 Clone the repository to your local machine.
