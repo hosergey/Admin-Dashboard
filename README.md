@@ -1,5 +1,7 @@
 # React Project: Data Visualization Dashboard
 
+![image 31](https://github.com/user-attachments/assets/f6164ab7-c94c-493f-8630-c79525d408c2)
+![image 32](https://github.com/user-attachments/assets/090644a4-0257-49a1-8bd5-b789e40dc2d0)
 
 
 ## Description:
